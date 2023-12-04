@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    body{
+        background-color: #272525;
+        margin: 0;
+        padding: 0;
+    }
+    #container{
+        height: 95vh;
+        width: 30%;
+        background-color: #000;
+        margin: 0 auto;
+        padding: 0;
+        color: #fff;
+    }
+    #navbar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 1.5rem;
+    }
+    #class{
+        display: flex;
+        font-size: 1.1rem;
+    }
+    #icons{
+        display: flex;
+    }
+    #one{
+        margin: 30px 20px 40px 10px;
+    }
+    h2{
+        margin: 20px 0 40px 20px;
+    }
+    #four{
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    img{margin: 0;
+        padding: 0;
+        border: none;
+        width: 32.6%;
+        height: 12vh;
+    }
+    #imgpro{
+     width:5vw;
+     height: 10vh;
+     border-radius: 50px;
+    }
+    #five{
+    margin: 0 20px;
+    }
+    .five5{
+        margin-left: 10px;
+        color: darkgrey;
+    }
+    #link{
+        display: flex;
+    }
+    a{
+        color:dimgrey;
+        margin-left: 3px;
+    }
+    .fives{
+        color:dimgrey;
+    }
+    #btn{
+        margin: 20px 0;
+        width: 13.4vw;
+        height: 4vh;
+        background-color: #272525;
+        color: white;
+        border: none;
+        border-radius: 10px;
+    }
+    #six{
+        margin: 0;
+        padding: 0;
+    }
+    #last{
+        display: flex;
+    }
+    #ppp{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    #space{
+        margin: 10px 0 15px 0;
+    }
+    #spacee{
+        font-size: 1rem;
+        margin-top: 11px;
+    }
+    #foot{
+        display: flex;
+        justify-content: space-around;
+        font-size: 1.5rem;   
+    }
+    #imgpr{
+        margin: 0;
+    }
+    #plus{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        font-size: 5rem;
+        margin-left: 15px;
+    }
+    #navbar2{
+        display: flex;
+        justify-content: space-around;
+        font-size: 2rem;
+        border-bottom: 2px solid white;
+    }
+    #border{
+        margin-bottom: 10px;
+    }
+    #lasty{
+        margin-top: 7px;
+    }
